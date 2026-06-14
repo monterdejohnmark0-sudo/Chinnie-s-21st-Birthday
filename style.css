@@ -10,7 +10,7 @@
     --color-pink: #feecea;
     --color-white: #fff;
     --color-black: #333;
-    --color-text-pink: #dd3d88;
+    --color-text-pink: #a80250;
     --color-heart: #ff8daf;
     --color-bg-letter: #fff8e4;
     --color-border: #DACCBF;
@@ -797,12 +797,6 @@ body {
 
 }
 
-
-
-
-
-
-
 .boxMail{
     position: fixed;
     background: rgb(0, 0, 0, 0.8);
@@ -895,7 +889,7 @@ body {
     line-height: 1.5;
     letter-spacing: 5px;
     transform: rotate(-5deg);
-    color: #ff8daf;
+    color: #ff2f6e;
     text-shadow: 0 0 5px #ff8daf,
                  0 0 10px #ff8daf;
 }
@@ -913,7 +907,7 @@ body {
     width: 100%;
     height: 100%;
     position: relative;
-    background-color: #ff8daf;
+    background-color: #ff2f6e;
     transition: all 1s;
     overflow: hidden;
     font-family: "Inter", serif;
@@ -928,7 +922,7 @@ body {
     padding: 20px 0px 10px 60px;
     opacity: 0;
     visibility: hidden;
-    font-size: 17px;
+    font-size: 15px;
     text-shadow: 0 0 8px #FF7882;
 
     animation: texth3 2s forwards;
@@ -950,7 +944,7 @@ body {
     font-family: 'Dancing Script', cursive;
     padding: 0px 20px;
     text-indent: 20px;
-    font-size: 17px;
+    font-size: 15px;
     opacity: 0;
 
     animation: texth2 1s forwards;
